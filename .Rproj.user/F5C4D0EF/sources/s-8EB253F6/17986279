@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1525241427915.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "17986279",
+    "lastKnownWriteTime" : 1525241472,
+    "last_content_update" : 1525241434255,
+    "path" : "/media/sf_Downloads/multarreg/R/tests.R",
+    "project_path" : "R/tests.R",
+    "properties" : {
+        "cursorPosition" : "52,0",
+        "scrollLine" : "33"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1525241734938.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2795126621",
+    "id" : "DC304F09",
+    "lastKnownWriteTime" : 1525241785,
+    "last_content_update" : 1525241747521,
+    "path" : "/media/sf_Downloads/multarreg/R/single-target.R",
+    "project_path" : "R/single-target.R",
+    "properties" : {
+        "cursorPosition" : "24,53",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
