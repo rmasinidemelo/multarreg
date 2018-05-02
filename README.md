@@ -16,3 +16,15 @@ temp <- mtr$new(method = "st")    # instantiate a mutiple target regressor
 temp$fit(x, y)                    # regress 
 temp$predict(x_new)               # predict
 ```
+
+**Methods**:
+
+- single_target (done)
+
+TODO:
+
+- mtrs
+- mtrs_extended
+- rc
+- rcCV
+- nnet
