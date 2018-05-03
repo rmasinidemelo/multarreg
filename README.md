@@ -28,3 +28,8 @@ TODO:
 - rc
 - rcCV
 - nnet
+
+----
+
+**License**: GPL-3
+**Contribution**: Suggestions and PR are welcome! [A survey on multi-output regression by Hanen Borchani et al](oa.upm.es/id/eprint/40804/contents) seems to be a good start point.
